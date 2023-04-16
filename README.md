@@ -1,6 +1,6 @@
 # Customer_Churn_Prediction
 
-### The following steps are followed to make this ML Project:
+## The following steps are followed to make this ML Project:
 
 ### 1) Getting data
 ### 2) Github And Code Set up
@@ -12,4 +12,6 @@
 ### 8) Predict Pipeline
 ### 9) Model Deployment
 
-### Example (Screenshot from Website):
+
+## Example (Screenshot from Website):
+### 1)
